@@ -9,6 +9,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200px;
     
  }
  .cchange{
@@ -38,3 +39,56 @@ body{
     text-decoration: none;
     color: rgb(33, 45, 45);
  }
+.hstyles{background-color: beige;
+    background-image: url("../images/header_bg.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+
+    
+    
+
+
+}
+.banner{
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.banner .profile-pic{
+    width: 500px;
+}
+.bt{
+    font-size: 45px;
+    color: #474747;
+    margin-bottom: 0
+    ;
+}
+.bti{
+    font-size: 70px;margin-top: 5px;margin-bottom: 20px;
+}
+
+.bd{font-size: 35px;
+    max-width: 700px;
+
+    
+
+}
+
+.about{
+    padding: 250px;
+    border-radius: 10px;
+    background-color: rgb(114, 131, 145);
+    margin: 150px 450px;
+}
+
+.section-tittle{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+
+
